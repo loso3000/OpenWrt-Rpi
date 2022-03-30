@@ -1,7 +1,5 @@
 #!/usr/bin
 
-#[[ x$REPO_FLODER = x ]] && \
-# (REPO_FLODER="openwrt" && echo "REPO_FLODER=openwrt" >>$GITHUB_ENV)
 
 color() {
     case $1 in
